@@ -1,0 +1,10 @@
+[Unit]
+Description=Btrbk daily backup
+
+[Timer]
+OnCalendar=daily
+AccuracySec=10min
+Persistent=true
+
+[Install]
+WantedBy=timers.target

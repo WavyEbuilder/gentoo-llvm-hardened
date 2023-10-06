@@ -1,0 +1,2 @@
+sys-devel/clang-common	default-lld
+sys-devel/gcc		cet -hardened

@@ -1,0 +1,2 @@
+media-video/ffmpeg	opus
+media-video/pipewire	jack-sdk pipewire-alsa sound-server

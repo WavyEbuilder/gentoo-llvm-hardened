@@ -1,0 +1,4 @@
+dev-libs/glib		static-libs
+dev-libs/libdbusmenu	gtk3
+dev-libs/libpcre2	static-libs
+dev-libs/qtkeychain	keyring

@@ -1,0 +1,8 @@
+[Unit]
+Description=Backup tool for btrfs subvolumes
+
+[Service]
+Type=oneshot
+ExecStartPre=/usr/bin/mount /dev/mapper/cryptroot /system
+ExecStart=/usr/bin/btrbk run -c /etc/btrbk/btrbk.conf
+ExecStartPost=/usr/bin/umount /system

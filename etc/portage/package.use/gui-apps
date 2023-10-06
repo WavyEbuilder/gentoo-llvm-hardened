@@ -1,0 +1,3 @@
+gui-apps/rofi-wayland	drun window wayland
+gui-apps/swaybg		gdk-pixbuf
+gui-apps/waybar		network tray wifi

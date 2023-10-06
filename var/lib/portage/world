@@ -1,0 +1,8 @@
+app-editors/neovim
+dev-vcs/git
+sys-devel/lld
+sys-firmware/intel-microcode
+sys-kernel/gentoo-kernel
+sys-kernel/installkernel-systemd-boot
+sys-kernel/linux-firmware
+sys-libs/llvm-libunwind

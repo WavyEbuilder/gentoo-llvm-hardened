@@ -1,0 +1,3 @@
+app-emulation/qemu		alsa nfs opengl sasl spice ssh static-libs udev usb usbredir vnc xattr zstd
+app-emulation/libvirt		nfs parted pcap qemu sasl udev virtualbox wireshark-plugins
+app-emulation/virt-manager	gui policykit
