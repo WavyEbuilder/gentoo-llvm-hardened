@@ -1,0 +1,1 @@
+CFLAGS="${COMMON_FLAGS} -flto=thin -std=c11"

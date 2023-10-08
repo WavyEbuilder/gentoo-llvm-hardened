@@ -1,0 +1,1 @@
+COMMON_FLAGS="-march=generic -mtune=generic -O2 -pipe"

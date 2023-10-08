@@ -1,0 +1,1 @@
+CXXFLAGS="${COMMON_FLAGS} -flto=thin -std=c++14"

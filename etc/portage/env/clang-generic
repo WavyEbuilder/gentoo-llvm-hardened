@@ -1,0 +1,3 @@
+COMMON_FLAGS="-march=generic -O2 -pipe"
+CFLAGS="${COMMON_FLAGS}"
+CXXFLAGS="${COMMON_FLAGS}"
