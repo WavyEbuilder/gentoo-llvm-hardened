@@ -1,11 +1,12 @@
 CC="gcc"
+CPP="gcc -E"
 CXX="g++"
 
 AR="${CHOST}-ar"
 NM="${CHOST}-nm"
 RANLIB="${CHOST}-ranlib"
 
-COMMON_FLAGS="-march=native -mtune=native -O2 -pipe"
+COMMON_FLAGS="-march=alderlake -mabm -mno-cldemote -mno-kl -mno-sgx -mno-widekl -mshstk --param=l1-cache-line-size=64 --param=l1-cache-size=48 --param=l2-cache-size=36864 -O2 -pipe"
 CFLAGS="${COMMON_FLAGS}"
 CXXFLAGS="${COMMON_FLAGS}"
 LDFLAGS="-Wl,--as-needed"

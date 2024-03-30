@@ -1,5 +1,0 @@
-dev-qt/linguist-tools		qml
-dev-qt/qtcharts			qml
-dev-qt/qtmultimedia		gstreamer qml widgets
-dev-qt/qtquickcontrols2		widgets
-dev-qt/qttools			designer qml widgets

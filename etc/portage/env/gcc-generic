@@ -6,7 +6,7 @@ AR="${CHOST}-ar"
 NM="${CHOST}-nm"
 RANLIB="${CHOST}-ranlib"
 
-COMMON_FLAGS="-march=native -O2 -pipe"
+COMMON_FLAGS="-march=generic -O2 -pipe"
 CFLAGS="${COMMON_FLAGS}"
 CXXFLAGS="${COMMON_FLAGS}"
 LDFLAGS="-Wl,--as-needed"

@@ -1,3 +1,1 @@
-net-libs/gnutls		tools pkcs11
-net-libs/libwebsockets	libuv
-net-libs/nodejs		npm inspector
+net-libs/gnutls	pkcs11 tools

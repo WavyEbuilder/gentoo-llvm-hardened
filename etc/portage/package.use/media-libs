@@ -1,1 +1,3 @@
-media-libs/libvpx	postproc
+media-libs/libepoxy	X
+media-libs/libglvnd	X
+media-libs/mesa		X

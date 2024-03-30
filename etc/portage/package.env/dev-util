@@ -1,2 +1,2 @@
-dev-util/colm	clang-plain
-dev-util/rustup	clang-plain
+dev-util/sysprof-capture	gcc-plain
+dev-util/sysprof-common		gcc-plain

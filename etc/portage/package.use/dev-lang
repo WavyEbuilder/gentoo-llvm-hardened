@@ -1,1 +1,1 @@
-dev-lang/rust-bin	rust-analyzer rustfmt
+dev-lang/rust	clippy doc profiler rust-analyzer rustfmt rust-src system-bootstrap system-llvm wasm

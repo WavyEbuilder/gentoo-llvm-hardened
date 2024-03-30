@@ -1,0 +1,3 @@
+sys-apps/fwupd		gcc-plain
+sys-apps/fwupd-efi	gcc-plain
+#sys-apps/systemd	gcc-plain

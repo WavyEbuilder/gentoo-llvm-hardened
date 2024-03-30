@@ -1,2 +1,2 @@
-sys-apps/attr		static-libs
-sys-apps/systemd	boot cryptsetup fido2 tpm
+sys-apps/dbus		X
+sys-apps/systemd	boot cryptsetup kernel-install lzm4 openssl resolvconf ukify

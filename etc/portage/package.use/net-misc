@@ -1,2 +1,3 @@
+net-misc/networkmanager	-nss -wext
 net-misc/openssh	security-key
 net-misc/spice-gtk	usbredir

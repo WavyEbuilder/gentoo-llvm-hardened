@@ -1,0 +1,4 @@
+x11-libs/cairo          X
+x11-libs/libxkbcommon   X
+x11-libs/gtk+           X
+x11-libs/wxGTK          X

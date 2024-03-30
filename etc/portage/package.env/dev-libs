@@ -1,1 +1,1 @@
-dev-libs/glib	gcc-compile
+dev-libs/libgudev	gcc-plain

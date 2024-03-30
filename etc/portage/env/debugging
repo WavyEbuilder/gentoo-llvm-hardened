@@ -1,3 +1,0 @@
-CFLAGS="${CFLAGS} -ggdb3"
-CXXFLAGS="${CXXFLAGS} -ggdb3"
-FEATURES="${FEATURES} compressdebug installsources splitdebug -nostrip"

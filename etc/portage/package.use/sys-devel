@@ -1,2 +1,2 @@
-sys-devel/clang-common	default-lld
-sys-devel/gcc		cet -hardened
+sys-devel/clang-common  default-compiler-rt default-lld
+sys-devel/gcc           graphite

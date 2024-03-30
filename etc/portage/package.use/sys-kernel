@@ -1,1 +1,2 @@
-sys-kernel/gentoo-kernel	initramfs modules-sign savedconfig
+sys-kernel/gentoo-kernel	modules-sign savedconfig
+sys-kernel/installkernel	dracut -grub module-rebuild systemd systemd-boot uki
